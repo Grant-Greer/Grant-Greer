@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Grant Greer</h1>
 <h3 align="left">A Full-Stack Software Developer from Portland, OR</h3>
 
-- 🔭 I’m currently working on **Full-Stack React Apps**
+- 🔭 I’m currently working on **Full-Stack Next/Remix Apps**
 
-- 🌱 I’m currently learning **Typescript, Next.js, Vitest**
+- 🌱 I’m currently learning **Typescript, Next.js, Remix**
 
 - 📫 How to reach me **grantgreerDev@gmail.com**
 
