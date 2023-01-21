@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Next/Remix Apps**
 
-- 🌱 I’m currently learning **Typescript, Next.js, Remix**
+- 🌱 I’m currently learning **Typescript, Next.js, TRPC**
 
 - 📫 How to reach me **grantgreerDev@gmail.com**
 
