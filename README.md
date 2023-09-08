@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Grant Greer</h1>
-<h3 align="left">A Software Developer in Portland, OR</h3>
+<h3 align="left">A Software Engineer in Portland, OR</h3>
 
 - 🔭 I’m currently working on **Rust Applications**
 
