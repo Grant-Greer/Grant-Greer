@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Grant Greer</h1>
-<h3 align="left">A Software Engineer in Portland, OR</h3>
+<h3 align="left">A Computer Science student in Portland, OR</h3>
 
-- 🔭 I’m currently working on **Rust Applications**
-
-- 🌱 I’m currently learning **Rust, Typescript, Back-end Engineering**
+- 🔭 I’m currently working on **Python and Rust Applications**
 
 - 📫 How to reach me **grantgreerDev@gmail.com**
 
