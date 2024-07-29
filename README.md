@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Grant Greer</h1>
-<h3 align="left">A Computer Science student in Portland, OR</h3>
+<h3 align="left">Software Engineer and Linux enthusiast in Portland, OR</h3>
 
 - 🔭 I’m currently working on **Competitive Programming in Zig and C**
 
