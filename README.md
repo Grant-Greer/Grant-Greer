@@ -1,9 +1,9 @@
 <h1 align="left">Hello 👋, I'm Grant Greer</h1>
 <h3 align="left">Software Engineer and Linux enthusiast in Portland, OR</h3>
 
-- 🔭 I’m currently working on **Competitive Programming in Zig and C**
+- 🔭 I’m currently working on **DSA in Zig and C**
 
-- 📫 How to reach me **grantgreerDev@gmail.com || byteslider@proton.me**
+- 📫 Reach me at: **grantgreerDev@gmail.com || byteslider@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
