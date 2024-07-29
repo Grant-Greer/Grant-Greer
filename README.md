@@ -11,10 +11,10 @@
 </p>
 <h3 align="left">Operating System:</h3>
 
-<img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch Linux" width="300" height="100"  />
+<img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch Linux" width="150" height="50"  />
 
 <h3>Languages and Tools:</h3>
-<div style="diplay: flex">
+<div style="display: flex; flex-direction: row; width: 100%;">
   <img src="https://raw.githubusercontent.com/ziglang/logo/master/zig-logo-dynamic.svg" alt="Zig" width="70" height="70"/>
   <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" height="60" width="60" alt="rust">
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="60" height="60" />
