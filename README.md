@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Competitive Programming in Zig and C**
 
-- 📫 How to reach me **grantgreerDev@gmail.com**
+- 📫 How to reach me **grantgreerDev@gmail.com || byteslider@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
