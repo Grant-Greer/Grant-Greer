@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer and Linux enthusiast</h3>
 
 
-- 📫 Reach me at: **grantgreerDev@gmail.com || byteslider@proton.me**
+- 📫 Reach me at: **grantgreerDev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
