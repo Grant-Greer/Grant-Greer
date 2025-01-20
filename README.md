@@ -1,7 +1,6 @@
 <h1 align="left">Hello 👋, I'm Grant Greer</h1>
-<h3 align="left">Software Engineer and Linux enthusiast in Portland, OR</h3>
+<h3 align="left">Software Engineer and Linux enthusiast</h3>
 
-- 🔭 I’m currently working on **Competitive Programming in Rust**
 
 - 📫 Reach me at: **grantgreerDev@gmail.com || byteslider@proton.me**
 
