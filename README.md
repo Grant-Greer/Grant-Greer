@@ -1,8 +1,8 @@
-<h1 align="left">Hello 👋, Traveler</h1>
+<h1>Hello 👋, Traveler</h1> 
+<img src="https://shinyexe.neocities.org/sprites/otaconhi.gif">
 <h3 align="left">Software Engineer and Linux enthusiast</h3>
 
-
-- 📫 Reach me at: **grantgreerDev@gmail.com**
+- 📫 Reach me at: **grantgreerdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
