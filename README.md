@@ -1,5 +1,4 @@
 <h1>Hello 👋, Traveler</h1> 
-<img src="https://shinyexe.neocities.org/sprites/otaconhi.gif">
 <h3 align="left">I'm a software engineer and linux enthusiast</h3>
 
  📫 Reach me at: **grantgreerdev@gmail.com**
