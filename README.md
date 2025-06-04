@@ -9,7 +9,7 @@
 </p>
 
 <h3> Currently Working On</h3>
-<p>Vanadium - A Register based Virtual Machine built in Zig</p>
+<p>ZipFetch - A Register based Virtual Machine built in Zig</p>
 <img src="https://gamera.neocities.org/images/deco/working.gif">
 <h3 align="left">Operating Systems of Choice:</h3>
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch Linux" width="150" height="50"/>
