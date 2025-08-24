@@ -1,5 +1,5 @@
 <h1>Hello 👋, </h1> 
-<h3 align="left">I'm a Software Engineer and Linux enthusiast</h3>
+<h3 align="left">Software Engineer and Linux enthusiast</h3>
 
  📫 Reach me at: **grantgreerdev@gmail.com**
 
